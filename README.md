@@ -14,4 +14,4 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-<img width=800px height=200px src="./src/assets/CapturaSistema.JPG" alt="Project">
+<img width=800px height=500px src="./src/assets/CapturaSistema.JPG" alt="Project">
